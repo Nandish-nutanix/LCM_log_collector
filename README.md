@@ -4,7 +4,7 @@ A Bash script, `lcm_log_collector.sh`, has been created to automate the process 
 
 ## Download
 
-Download the script here: [lcm_log_collector.sh](https://raw.githubusercontent.com/Nandish-nutanix/LCM_log_collector/main/lcm_log_collector.sh)
+Download the script here: [lcm_log_collector.sh](https://github.com/Nandish-nutanix/LCM_log_collector/blob/main/lcm_log_collector.sh)
 
 ## How to Run the Script
 
